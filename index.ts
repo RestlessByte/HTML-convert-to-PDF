@@ -8,7 +8,7 @@ if (process.argv.length < 3) {
 }
 
 const inputUrl = process.argv[2];
-const outputFile = process.argv[3] || 'output.pdf';
+const outputFile = process.argv[3] || 'index.pdf';
 
 // Валидация URL
 try {
