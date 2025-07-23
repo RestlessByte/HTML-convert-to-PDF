@@ -4,9 +4,6 @@
 ```bash
 git clone git@github.com:RestlessByte/HTML-convert-to-PDF.git 
 && cd HTML-convert-to-PDF 
-&& bun install 
-&& git clone git@github.com:RestlessByte/HTML-convert-to-PDF.git
-&& cd HTML-convert-to-PDF 
 && bun install
 && bun index.ts https://example.com
 ```
