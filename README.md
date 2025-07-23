@@ -10,4 +10,4 @@ cd HTML-convert-to-PDF
 ***You get file in root dir with name *output.pdf***
 **With name pdf**
 ```bash
-bun index.ts https://example.com example
+bun index.ts https://example.com example.pdf
