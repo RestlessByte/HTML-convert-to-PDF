@@ -2,7 +2,7 @@
 ## How using?:
 **Example**
 ```bash
-bun index.ts https://example.pdf
+bun index.ts https://example.com
 ```
 ***You get file in root dir with name *output.pdf***
 **With name pdf**
